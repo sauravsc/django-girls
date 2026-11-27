@@ -1,6 +1,6 @@
 # django-girls
 
-[![CI](https://github.com/saurvs/django-girls/actions/workflows/ci.yml/badge.svg)](https://github.com/saurvs/django-girls/actions/workflows/ci.yml)
+[![CI](https://github.com/sauravsc/django-girls/actions/workflows/ci.yml/badge.svg)](https://github.com/sauravsc/django-girls/actions/workflows/ci.yml)
 
 A small blog app built while following the [Django Girls Tutorial](https://tutorial.djangogirls.org/)
 in 2018, updated to run on **Django 6.1** and **Python 3.12+** (CI tests 3.12 to 3.15).
